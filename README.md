@@ -33,7 +33,7 @@
     </table>
 </center>
 
-<center><a href="https://heroku.com/deploy?template=https://github.com/the0demiurge/ShadowSocksShare/tree/master"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a></center>
+<center><a href="https://heroku.com/deploy?template=https://github.com/bannedbook/ShadowSocksShare/tree/master"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a></center>
 
 ## 简介：
 
